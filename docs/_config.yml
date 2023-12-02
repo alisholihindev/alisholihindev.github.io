@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Ali Sholihin
-  image             : asset/img/ali.jpeg
+  image             : /asset/img/ali.jpeg
   # behance           : your_username
 # dribbble          : your_username
   email             : ali.sholihin7@gmail.com
